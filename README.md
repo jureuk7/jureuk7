@@ -9,27 +9,30 @@
 - 사용성 좋고 예쁜 UI/UX에 관심이 많아요
 - 주로 **React**와 **React Native**를 사용한 크로스플랫폼 개발을 하고 있어요
 
-### 그동안 이런 활동을 했어요
-- 2022 선린 소프트웨어 나눔 축제 웹사이트 개발
-- 2022 선린 소프트웨어 나눔 축제 교재 집필 
-- 2023 선린 소프트웨어 나눔 축제 총괄
-- 2023 DDP 우리가 꿈꾸는 SW/AI 특성화 부스 전시
-- 2023 킨텍스 소프트웨어 교육 페스티벌 전시/교육
-- 2023 선린 소프트웨어 학과 발표회 브랜딩/운영
-- SunrinINT 1기 Product Manager
-- IMPACT LOUNGE 2023 발표자
+### 기술 스택
+#### Frontend
+![alt text](/badges/frontend/React.svg) ![alt text](/badges/frontend/Next.svg) ![alt text](/badges/frontend/React%20Native.svg) ![alt text](/badges/frontend/React%20Query.svg) ![alt text](/badges/frontend/Recoil.svg) ![alt text](/badges/frontend/Storybook.svg) ![alt text](/badges/frontend/Styled%20Components.svg) ![alt text](/badges/frontend/Vue.svg) ![alt text](/badges/frontend/Svelte.svg)
+#### Backend & Databases
+![alt text](/badges/backends/Nest.js.svg) ![alt text](/badges/backends/PostgreSQL.svg) ![alt text](/badges/backends/MySQL.svg) ![alt text](/badges/backends/MongoDB.svg) ![alt text](/badges/backends/TypeORM.svg) ![alt text](/badges/backends/Sequelize.svg)
+#### Languages
+![alt text](/badges/languages/javascript.svg) ![alt text](/badges/languages/typescript.svg) ![alt text](/badges/languages/kotlin.svg) ![alt text](/badges/languages/python.svg) ![alt text](/badges/languages/java.svg)
+#### DevOps & ETC
+![alt text](/badges/devops/aws.svg) ![alt text](/badges/devops/cloudflare.svg) ![alt text](/badges/devops/docker.svg) ![alt text](/badges/devops/nginx.svg)
 
-### 이런 프로젝트를 진행했어요 / 진행하고 있어요
-- 선린인터넷고등학교 공식 인트라넷 SunrinINT 
-- 23년도 선린 소프트웨어 나눔 축제 웹사이트
-- 콘텐츠디자인과 메인 웹사이트 개발
-- 24년도 콘텐츠디자인과 졸업전시회 LOUPE 웹사이트 개발
-- 비친족 가구 도움 솔루션 Harmony
-- 게임 개발 전문동아리 RG 23년도 웹사이트 개발
-- 23년도 선린 해커톤 본선 출품작 헬짱
-- 
+## 프로젝트
+#### [선린인터넷고등학교 공식 인트라넷 SunrinINT](https://github.com/sunrin-int) 
+* 앱 개발, 어드민 페이지 개발 
+#### [23년도 선린 소프트웨어 나눔 축제 웹사이트](https://github.com/jureuk7/ssf_frontend) 
+* [바로가기](https://ssf-frontend.page.dev)
+#### [콘텐츠디자인과 메인 웹사이트 개발](https://github.com/sunrin-graphics) 
+* [바로가기](https://sunrin.graphics)
+#### [24년도 콘텐츠디자인과 졸업전시회 LOUPE 웹사이트 개발](https://sunrin.graphics/2024) 
+* [바로가기](https://sunrin.graphics/2024)
+#### [비친족 가구 도움 솔루션 Harmony](https://github.com/HarmonyOfficial/harmoy-app) 
+#### [게임 개발 전문동아리 RG 23년도 웹사이트 개발](https://github.com/sunrin-rg/sunrin-rg.github.io) 
+#### [23년도 선린 해커톤 본선 출품작 헬짱](https://github.com/23sunrinthon/hackathon_frontend)
 
-### 수상 경력
+## 수상 경력
 - 제1회 IT 코딩 발명 아이디어 대회 장려상 - Class Together
 - 23회 AppJam 생활정보 우수상 - 냉장고를 부탁해
 - 23년도 선린 디지털콘텐츠 개발대회 대상 - Harmony
