@@ -11,17 +11,13 @@
 
 ### 기술 스택
 #### Frontend
-![alt text](/badges/frontend/React.svg) ![alt text](/badges/frontend/Next.svg) ![alt text](/badges/frontend/React%20Native.svg) ![alt text](/badges/frontend/React%20Query.svg) ![alt text](/badges/frontend/Recoil.svg) ![alt text](/badges/frontend/Storybook.svg) ![alt text](/badges/frontend/Styled%20Components.svg) ![alt text](/badges/frontend/Vue.svg) ![alt text](/badges/frontend/Svelte.svg)
-<details>
-<summary>스택 전체보기</summary>
-
+![alt text](/badges/frontend/React.svg) ![alt text](/badges/frontend/React%20Native.svg) ![alt text](/badges/frontend/Styled%20Components.svg) ![alt text](/badges/frontend/Storybook.svg) ![alt text](/badges/frontend/React%20Query.svg) ![alt text](/badges/frontend/Svelte.svg) ![alt text](/badges/frontend/Recoil.svg) ![alt text](/badges/frontend/Next.svg) ![alt text](/badges/frontend/Vue.svg)
 #### Backend & Databases
 ![alt text](/badges/backends/Nest.js.svg) ![alt text](/badges/backends/PostgreSQL.svg) ![alt text](/badges/backends/MySQL.svg) ![alt text](/badges/backends/MongoDB.svg) ![alt text](/badges/backends/TypeORM.svg) ![alt text](/badges/backends/Sequelize.svg)
 #### Languages
 ![alt text](/badges/languages/JavaScript.svg) ![alt text](/badges/languages/Typescript.svg) ![alt text](/badges/languages/Kotlin.svg) ![alt text](/badges/languages/Python.svg) ![alt text](/badges/languages/Java.svg)
 #### DevOps & ETC
 ![alt text](/badges/devops/AWS.svg) ![alt text](/badges/devops/Cloudflare.svg) ![alt text](/badges/devops/Docker.svg) ![alt text](/badges/devops/Nginx.svg)
-</details>
 
 ## 프로젝트
 ### [선린인터넷고등학교 공식 인트라넷 SunrinINT](https://github.com/sunrin-int) 
