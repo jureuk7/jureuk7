@@ -39,6 +39,7 @@
 * [바로가기](https://sunrin.graphics/2024)
 #### [비친족 가구 도움 솔루션 Harmony](https://github.com/HarmonyOfficial/harmoy-app) 
 * 디자인 - [박시원](https://www.behance.net/whoisapple)
+* 개발 - [오유성](https://github.com/oyshallo562)
 #### [게임 개발 전문동아리 RG 23년도 웹사이트 개발](https://github.com/sunrin-rg/sunrin-rg.github.io) 
 * 디자인 - 장운지
 * [바로가기](https://sunrin-rg.github.io)
