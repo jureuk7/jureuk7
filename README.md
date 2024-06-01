@@ -15,9 +15,9 @@
 #### Backend & Databases
 ![alt text](/badges/backends/Nest.js.svg) ![alt text](/badges/backends/PostgreSQL.svg) ![alt text](/badges/backends/MySQL.svg) ![alt text](/badges/backends/MongoDB.svg) ![alt text](/badges/backends/TypeORM.svg) ![alt text](/badges/backends/Sequelize.svg)
 #### Languages
-![alt text](/badges/languages/javascript.svg) ![alt text](/badges/languages/typescript.svg) ![alt text](/badges/languages/kotlin.svg) ![alt text](/badges/languages/python.svg) ![alt text](/badges/languages/java.svg)
+![alt text](/badges/languages/JavaScript.svg) ![alt text](/badges/languages/Typescript.svg) ![alt text](/badges/languages/Kotlin.svg) ![alt text](/badges/languages/Python.svg) ![alt text](/badges/languages/Java.svg)
 #### DevOps & ETC
-![alt text](/badges/devops/aws.svg) ![alt text](/badges/devops/cloudflare.svg) ![alt text](/badges/devops/docker.svg) ![alt text](/badges/devops/nginx.svg)
+![alt text](/badges/devops/AWS.svg) ![alt text](/badges/devops/Cloudflare.svg) ![alt text](/badges/devops/Docker.svg) ![alt text](/badges/devops/Nginx.svg)
 
 ## 프로젝트
 #### [선린인터넷고등학교 공식 인트라넷 SunrinINT](https://github.com/sunrin-int) 
